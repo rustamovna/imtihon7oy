@@ -34,4 +34,6 @@
 <!-- Redoc UI: -->
 -  [http://127.0.0.1:8000/redoc/](http://127.0.0.1:8000/redoc/)
 
+<!-- Postman -->
+- [https://documenter.getpostman.com/view/40449474/2sB3BHkTvN](https://documenter.getpostman.com/view/40449474/2sB3BHkTvN)
 ---
